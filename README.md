@@ -16,6 +16,6 @@ n/a
 Click this link to view clip of logo generator:
 
 ## contributors
-Tutoring, class activities more specifically OOP lectures.
+Tutoring with Andres, class activities-OOP lectures.
 ## tests
 n/a
