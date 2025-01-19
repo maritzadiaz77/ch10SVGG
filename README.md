@@ -10,12 +10,15 @@ SVG logo generator
 * [Tests](#tests)
 
 ## Installation
-To install necessary packages please run following command:
-n/a
+Go to terminal and type node index.js,then answer the prompts.
 ## usage
 Click this link to view clip of logo generator:
+https://www.youtube.com/watch?v=TECrkh8_A9c 
+Here is the logo that was generated.
+http://127.0.0.1:5500/logo.svg 
 
 ## contributors
 Tutoring with Andres, class activities-OOP lectures.
 ## tests
-n/a
+Here is the logo that was generated.
+http://127.0.0.1:5500/logo.svg 
